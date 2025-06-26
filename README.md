@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Satyam
+This is my Repository.
+- Satyam
