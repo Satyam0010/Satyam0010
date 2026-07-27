@@ -19,11 +19,6 @@ Learning  : Spring Boot | System Design | DSA
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyam0010&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam0010&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Satyam0010&theme=tokyonight&hide_border=true"/>
 </p>
 
