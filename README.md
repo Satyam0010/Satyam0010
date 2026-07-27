@@ -51,9 +51,6 @@ Learning  : Spring Boot | System Design | DSA
 - LinkedIn: https://www.linkedin.com/in/satyam-516384334
 - LeetCode: https://leetcode.com/u/Satyam_me/
 
-## Snake Animation
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Satyam0010/Satyam0010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
