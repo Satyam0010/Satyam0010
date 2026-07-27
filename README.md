@@ -53,6 +53,8 @@ Learning  : Spring Boot | System Design | DSA
 
 ## Snake Animation
 
-```md
-![Snake animation](https://raw.githubusercontent.com/Satyam0010/Satyam0010/output/github-contribution-grid-snake-dark.svg)
-```
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satyam0010/Satyam0010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
