@@ -1,7 +1,7 @@
 # Hi, I'm Satyam 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=AI+Summer+Intern+%40+MirAI+School+of+Technology;Java+Developer;MERN+Stack+Developer;Cyber+Security+Enthusiast;Always+Learning+Something+New..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Computer+Science+Student;AI+Summer+Intern+%40+MirAI+School+of+Technology;Learning+Java+%E2%80%A2+MERN+%E2%80%A2+AI;DSA+Enthusiast;Building+Systems+%26+Networking+Projects;Always+Learning+Something+New..." alt="Typing SVG" />
 </p>
 
 ## > whoami
