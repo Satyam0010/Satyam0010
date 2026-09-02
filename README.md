@@ -20,7 +20,7 @@
 
 </div>
 
-*** ## whoami ***
+## ***whoami***
 
 I'm Satyam, a 3rd-year B.Tech Computer Science & Engineering student at GL Bajaj Institute of Technology and Management, graduating in 2028.
 
