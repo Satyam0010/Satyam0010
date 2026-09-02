@@ -11,7 +11,7 @@
 <a href="https://dossierofsatyam.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="www.linkedin.com/in/satyam-516384334">
+<a href="https://www.linkedin.com/in/satyam-516384334">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:iamsatyam0010@gmail.com">
@@ -20,7 +20,7 @@
 
 </div>
 
-##whoami
+*** ## whoami ***
 
 I'm Satyam, a 3rd-year B.Tech Computer Science & Engineering student at GL Bajaj Institute of Technology and Management, graduating in 2028.
 
@@ -30,58 +30,17 @@ I've solved 450+ problems on LeetCode, strengthening my problem-solving, algorit
 
 Currently, I'm taking my Java knowledge further into professional backend development through Spring Boot, REST APIs, JPA/Hibernate, SQL, Spring Security, testing, and backend system design.
 
-Building depth before breadth.
 
-⚡ At a Glance
-
-<table>
-<tr>
-<td><b>🎓 Education</b></td>
-<td>B.Tech CSE · GL Bajaj ITM · 2024–2028</td>
-</tr>
-<tr>
-<td><b>💻 Primary Language</b></td>
-<td>Java</td>
-</tr>
-<tr>
-<td><b>🧩 DSA</b></td>
-<td>450+ LeetCode problems</td>
-</tr>
-<tr>
-<td><b>🤖 AI Experience</b></td>
-<td>AI Intern · MirAI School of Technology</td>
-</tr>
-<tr>
-<td><b>🔧 Current Focus</b></td>
-<td>Spring Boot · Backend · System Design</td>
-</tr>
-<tr>
-<td><b>🎯 Target</b></td>
-<td>Software Development Engineer</td>
-</tr>
-</table>
-
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,spring,nodejs,express,mongodb,mysql,git,github,postman,vscode&perline=8" />
 </p>
 
-Core
 
-Data Structures & Algorithms · OOP · DBMS · SQL · Operating Systems
+# 💼 Experience
 
-Backend
-
-Spring Boot · REST APIs · JPA/Hibernate · Spring Security
-
-AI & Development
-
-Google Gemini API · Streamlit · React · Node.js · Express.js
-
-💼 Experience
-
-MirAI School of Technology — AI Intern
+## MirAI School of Technology — AI Intern
 
 July 2026 – August 2026
 
@@ -95,71 +54,8 @@ Developed multiple small-scale applications through hands-on project work.
 
 Applied AI concepts through practical implementation.
 
-Capstone — Salary Negotiator Simulator
 
-An AI-powered, voice-enabled negotiation coach built with Streamlit, Python, and Google Gemini.
-
-Conversational interaction powered by Google Gemini
-
-Context maintained throughout the negotiation
-
-Voice input with speech-to-text conversion
-
-Interactive salary negotiation experience
-
-<a href="https://github.com/Satyam0010/salary-negotiation-simulator">
-  <img src="https://img.shields.io/badge/View%20Capstone-111827?style=for-the-badge&logo=github&logoColor=white" alt="Capstone"/>
-</a>
-
-🚀 Selected Projects
-
-🔐 SecureScan
-
-MERN · Cybersecurity
-
-A full-stack security auditing platform for managing security assessments, analyzing vulnerabilities, calculating risk scores, and generating security recommendations.
-
-React Node.js Express.js MongoDB JWT Tailwind CSS
-
-<a href="https://github.com/Satyam0010/SecureScan">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SecureScan"/>
-</a>
-
-💼 Salary Negotiator Simulator
-
-AI Application · Internship Capstone
-
-A voice-enabled negotiation coach where Google Gemini acts as a specialized HR manager and dynamically responds to the candidate's negotiation strategy.
-
-Python Streamlit Google Gemini API Speech-to-Text
-
-<a href="https://github.com/Satyam0010/salary-negotiation-simulator">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Salary Negotiator"/>
-</a>
-
-🧠 MirAI Internship Projects
-
-AI · Streamlit
-
-A collection of applications developed during my MirAI internship while learning Streamlit, Python, and Google Gemini integration.
-
-Includes projects such as AI Image Studio, AI Multiverse, Life-OS, Memory Vault Chatbot, The Identity Echo Interface, and Visual Novel AI.
-
-<a href="https://github.com/Satyam0010/MIRAI_SoT_INTERNSHIP-PROJECTS">
-  <img src="https://img.shields.io/badge/Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="MirAI Projects"/>
-</a>
-
-🧩 Java / DSA Practice
-
-Java · Problem Solving
-
-An ongoing collection of topic-wise Data Structures & Algorithms practice in Java.
-
-<a href="https://github.com/Satyam0010/DSA">
-  <img src="https://img.shields.io/badge/DSA%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="DSA"/>
-</a>
-
-📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyam0010&show_icons=true&hide_border=true&theme=transparent&title_color=94A3B8&text_color=94A3B8&icon_color=94A3B8&rank_icon=github" height="170"/>
@@ -174,51 +70,8 @@ An ongoing collection of topic-wise Data Structures & Algorithms practice in Jav
   />
 </p>
 
-🎓 Education
 
-GL Bajaj Institute of Technology and Management
-B.Tech — Computer Science & Engineering · 2024–2028
-CGPA: 7.97 / 10
-
-St. Jude's College
-ISC Class 12th · 92.5%
-School Topper and among District Toppers in ISC Board Exams.
-
-St. Jude's College
-ICSE Class 10th · 94.25%
-Among Top Performers in ICSE Board Exams.
-
-📜 Certifications
-
-Google Prompting Essentials Specialization — Google · Jul 2026
-
-Google AI Essentials Specialization — Google · Jul 2026
-
-Full Stack Web Development With MERN STACK & GenAI — Udemy · Jun 2026
-
-Electronic Arts — Software Engineering Job Simulation — Forage · Oct 2025
-
-J.P. Morgan — Software Engineering Job Simulation — Forage · Oct 2025
-
-🔭 Currently Learning
-
-Spring Boot
- ├── REST APIs
- ├── JPA / Hibernate
- ├── SQL
- └── Spring Security
-
-Software Engineering
- ├── Testing
- ├── Backend Architecture
- └── System Design
-
-DSA
- ├── Problem Solving
- ├── Algorithms
- └── Complexity Analysis
-
-🌐 Find Me
+# 🌐 Find Me
 
 <p align="center">
 
