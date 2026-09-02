@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SATYAM&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making&descSize=18&descAlignY=60&animation=twinkling&color=0:0f172a,50:111827,100:1e293b" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&height=55&lines=Java+%7C+DSA+%7C+Backend+%7C+AI-powered+Applications;450%2B+LeetCode+Problems+Solved;Building+depth+before+breadth." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&height=55&lines=Java+%7C+DSA+%7C+Development;450%2B+LeetCode+Problems+Solved;Building+depth+before+breadth." alt="Typing animation"/>
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 <a href="https://dossierofsatyam.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/satyam-51634834/">
+<a href="www.linkedin.com/in/satyam-516384334">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:iamsatyam0010@gmail.com">
@@ -20,7 +20,7 @@
 
 </div>
 
-whoami
+##whoami
 
 I'm Satyam, a 3rd-year B.Tech Computer Science & Engineering student at GL Bajaj Institute of Technology and Management, graduating in 2028.
 
@@ -166,8 +166,12 @@ An ongoing collection of topic-wise Data Structures & Algorithms practice in Jav
   <img src="https://github-readme-streak-stats.demolab.com?user=Satyam0010&hide_border=true&background=00000000&stroke=334155&ring=94A3B8&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam0010&bg_color=00000000&color=94A3B8&line=64748B&point=E2E8F0&area=true&hide_border=true" width="95%" alt="Contribution activity"/>
+<<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam0010&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Satyam's GitHub Activity Graph"
+  />
 </p>
 
 🎓 Education
