@@ -55,21 +55,6 @@ Developed multiple small-scale applications through hands-on project work.
 Applied AI concepts through practical implementation.
 
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam0010&show_icons=true&hide_border=true&theme=transparent&title_color=94A3B8&text_color=94A3B8&icon_color=94A3B8&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=Satyam0010&hide_border=true&background=00000000&stroke=334155&ring=94A3B8&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" height="170"/>
-</p>
-
-<<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam0010&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="Satyam's GitHub Activity Graph"
-  />
-</p>
-
 
 # 🌐 Find Me
 
